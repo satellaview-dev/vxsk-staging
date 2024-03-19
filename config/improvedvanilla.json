@@ -1,0 +1,25 @@
+{
+	"right_click_to_harvest": {
+		"activated": true,
+		"allow_hoe_usage_as_loot_modifier": true,
+		"enable_blacklist": false,
+		"blacklisted_drops": [
+			"minecraft:wheat_seeds"
+		]
+	},
+	"easy_planting": {
+		"activated": true,
+		"radius": 3,
+		"make_circle": true
+	},
+	"spawner": {
+		"clear_spawner_when_placed": true,
+		"spawner_drop_chance": 100,
+		"spawn_egg_drop_chance": 100
+	},
+	"mob_drops": {
+		"drop_only_when_killed_by_player": true,
+		"looting_effective": true,
+		"spawn_egg_drop_chance": 2
+	}
+}

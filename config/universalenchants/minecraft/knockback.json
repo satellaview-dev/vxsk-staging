@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "mahoutsukai:proximity_projection_keys",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "$minecraft:universal_enchants_shield"
+  ],
+  "incompatible": []
+}

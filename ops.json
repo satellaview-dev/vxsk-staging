@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "7a86ca0f-3e7b-3fb2-bb16-57c5f023ae5e",
+    "name": "StonerWitchHya",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8d8982a5-8cf9-4604-8feb-3dd5ee1f83a3",
+    "name": "test",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "054ba1fd-2781-36d0-877d-5cc1d5e5a466",
+    "name": "satellaview_dev",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e4686ce6-9173-4104-bbcc-814529f8d0b1",
+    "name": "satellaview_dev",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

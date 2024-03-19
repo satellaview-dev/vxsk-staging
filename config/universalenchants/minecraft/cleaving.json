@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mahoutsukai:proximity_projection_keys"
+  ],
+  "incompatible": []
+}

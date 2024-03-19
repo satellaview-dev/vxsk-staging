@@ -1,0 +1,98 @@
+
+#General settings
+[general]
+	#Enable to allow only VR players to play.
+	vronly = false
+	#How many seconds to wait before kicking non-VR players.
+	#Range: 1.0 ~ 1.7976931348623157E308
+	vronlykickdelay = 5.0
+	#Don't get caught using this!
+	printmoney = false
+
+#Chat messages
+[messages]
+	#Kick message displayed to non-VR players, if vronly is enabled.
+	vronlykickmessage = "This server only allows VR players."
+	#Enable or disable all join messages.
+	enablejoinmessages = false
+	#Message displayed when a player joins using VR. Leave blank to disable.
+	joinmessagevr = "§9%s has joined using §6VR§9!"
+	#Message displayed when a player joins using the non-VR companion. Leave blank to disable.
+	joinmessagenonvr = "§a%s has joined using non-VR!"
+
+#Vanilla modifications for VR players
+[vrchanges]
+	#Distance at which creepers swell and explode for VR players. Vanilla: 3
+	#Range: 1.0 ~ 3.0
+	creeperswelldistance = 1.75
+
+	#Bow damage adjustments
+	[vrchanges.bow]
+		#Archery damage multiplier for standing VR players.
+		#Range: 1.0 ~ 3.0
+		standingmultiplier = 2.0
+		#Archery damage multiplier for seated VR players.
+		#Range: 1.0 ~ 3.0
+		seatedmultiplier = 1.0
+		#Archery headshot damage multiplier for standing VR players.
+		#Range: 1.0 ~ 3.0
+		standingheadshotmultiplier = 3.0
+		#Archery headshot damage multiplier for seated VR players.
+		#Range: 1.0 ~ 3.0
+		seatedheadshotmultiplier = 2.0
+
+#VR vs. non-VR vs. seated player PVP settings
+[pvp]
+	#Allow standing VR players to attack standing VR players.
+	vrvsvr = true
+	#Allow standing VR players to attack seated VR players.
+	vrvsseatedvr = true
+	#Allow standing VR players to attack non-VR players.
+	vrvsnonvr = true
+	#Allow seated VR players to attack seated VR players.
+	seatedvrvsseatedvr = true
+	#Allow seated VR players to attack non-VR players.
+	seatedvrvsnonvr = true
+
+#Climbey motion settings
+[climbey]
+	#Whether or not climbey is allowed on this server.
+	enabled = true
+	#Mode for block list.
+	#Allowed Values: DISABLED, WHITELIST, BLACKLIST
+	blocklistmode = "DISABLED"
+	#List of blocks to whitelist or blacklist
+	blocklist = ["white_wool", "dirt", "grass_block"]
+
+#Roomscale crawling settings
+[crawling]
+	#Whether clients will be allowed to use roomscale crawling. Does not disable vanilla forced-into-small-space crawling mechanic.
+	enabled = true
+
+#Teleport settings
+[teleport]
+	#Whether teleport is allowed. Recommended for players prone to VR sickness
+	enabled = true
+	#Whether to limit teleport distance and frequency in survival
+	limitedsurvival = false
+	#Maximum blocks players can teleport up, set 0 to disable
+	#Range: 0 ~ 16
+	uplimit = 1
+	#Maximum blocks players can teleport down, set 0 to disable
+	#Range: 0 ~ 16
+	downlimit = 4
+	#Maximum blocks players can teleport horizontally, set 0 to disable
+	#Range: 0 ~ 32
+	horizontallimit = 16
+
+#World scale settings
+[worldscale]
+	#Limit the range of world scale clients may use
+	limitrange = false
+	#Upper limit of world scale
+	#Range: 0.1 ~ 100.0
+	max = 2.0
+	#Lower limit of world scale
+	#Range: 0.1 ~ 100.0
+	min = 0.5
+

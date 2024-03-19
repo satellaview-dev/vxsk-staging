@@ -1,0 +1,110 @@
+# Generic options
+[general]
+  # Enable override of version while the Server is still starting?
+  # true: Shows the custom message and enables hover message
+  # false: Shows -1/-1 players online
+  useStartVersion = true
+  # Enable custom MOTD handling
+  enableCustomMOTD = true
+  # This will show custom text instead of the playercount.
+  # WARNING: This will also show, that the server is outdated, but players can still join!
+  useCustomMOTDVersion = false
+  # Should the server log "Disconnecting Player: Server is starting"?
+  logStartDisconnects = false
+  # Path to the server icon
+  # Image MUST be an PNG and the size MUST be 64x64 pixels
+  serverIconPath = "./server-icon.png"
+  # Path to the server icon shown while starting
+  # Will instead use the normal icon when file does not exist
+  # Image MUST be an PNG and the size MUST be 64x64 pixels
+  startServerIconPath = "./server-starting-icon.png"
+# These messages are visible to all players
+# 
+# Any messages supports color codes
+# More info about color codes here: https://bit.ly/mcformatting
+# Use \n for an new line, §k for unreadable text, §l for bold text, §m for strikethrough,
+# §n for underlined text, §o for italics and §r to reset all formatting
+[messages]
+  # The Message that will be displayed instead of -1/-1 Players
+  # Supports estimated server start time using %time%
+  startPlayerListText = "§4Starting..."
+  # Text that will be shown when you hover over the message you set in StartVersion
+  startPlayerListTextHover = "§4Server is starting\n§6Please wait until the server has started completely\n§cElse you will §4not§c be able to join\n§eIf you think this is an error contact the server team\n\n§a§nLinks:\n§bSupport website: §1http://example.com\n§5Discord server: §1http://discord.gg/example"
+  # Writes an custom MOTD while server is starting
+  # Only two lines will be displayed!
+  # Supports estimated server start time using %time%
+  serverStartingMOTD = "§4This Server is still Starting, §cPlease Wait...  Estimated: %time%"
+  # Kick message that will be shown to players who want to connect to the starting server
+  # 
+  # Vanilla: Server is still starting. Please wait before reconnecting
+  # Default: §4This server is currently starting
+  # §cPlease wait...
+  serverStartingKickMessage = "§4This server is currently starting\n§cPlease wait..."
+  # The player join message
+  # 
+  # Vanilla: §e%player% joined the game
+  joinMessage = "§6[§2+§6]§7%player%"
+  # The player leave message
+  # 
+  # Vanilla: §e%player% left the game
+  leaveMessage = "§6[§c-§6]§7%player%"
+  # The player leave message when the player times out
+  # 
+  # Vanilla: §e%player% left the game
+  timeoutLeaveMessage = "§6[§c-§6]§7%player% timed out"
+  # The message you get when the server stops
+  # 
+  # Vanilla: Server closed
+  # Default: §cServer has been stopped or is restarting
+  # §7Try joining again later
+  serverStoppedMessage = "§cServer has been stopped or is restarting, §7Try joining again later."
+  # Modify the motd as you like
+  # Multiple Lines in this config will randomize the MOTDs
+  # 
+  # Supports 2 lines (Use \n for new line)
+  # Placeholders:
+  # %online% - Online Players
+  # %max% - Maximum player count
+  # %time% - Time in the Overworld
+  # %time-colored% - Time in the Overworld, Green while day, Red while night
+customMOTDs = [   "§a%online%§6/§c%max%§6 players playing!, §3Join them now!", "§5Join our discord server!", "§2Join with v1.8.1b!"   ]
+  # Text used for the custom version
+  # 
+  # Placeholders:
+  # %online% - Online player count
+  # %max% - Maximum player count
+  customMOTDPlayerListText = "§a%online%§6/§c%max%§6 online!"
+  # The message you see when hovering over the player count in the server list
+  # 
+  # Placeholders:
+  # %online% - Online Players
+  # %max% - Maximum player count
+  # %playerlist% - A list of players like vanilla would display
+  # %gamemode% - The default gamemode of the server
+  # %time% - Time in the Overworld
+  # %time-colored% - Time in the Overworld, Green while day, Red while night
+  customMOTDPlayerListHover = "§6Welcome to YOURSERVER!\n§3There are §a%online%§3 players online.\nWorld time: %time-colored%\n\n§aOnline:\n§2%playerlist%\n§9§lHave Fun!"
+  # Message shown to players joining with newer Minecraft versions
+  # Vanilla: Outdated server! I'm still on 1.19.2
+  outdatedServerKick = "Coming from the future? We are still using Minecraft 1.19.2"
+  # Message shown to players joining with older Minecraft versions
+  # Vanilla: Outdated client! Please use 1.19.2
+  outdatedClientKick = "Your client is too old. Use 1.19.2"
+  # Kick message shown to spamming players
+  # Does not modify other mods's messages, only the vanilla one
+  spamKick = "Please do not spam!"
+  # Idle-Timeout kick message
+  # Vanilla: You have been idle for too long!
+  idleTimeoutKick = "§cYou have been AFK for too long!"
+# Useful to debug the mod
+# These should be disabled after use
+[dev]
+  # The amount of seconds till the config should be automatically reloaded.
+  # Could cause lag
+  # Will start as soon as the config loaded once
+  # Can be used to edit the starting MOTD and version while server is starting
+  # Set to 0 to disable
+  autoReloadConfig = 10
+  # Will delay the server start by 9999 seconds
+  # Can be used with ReloadConfigAfter to modify your StartMOTD and Version
+  delayServerStart = false
