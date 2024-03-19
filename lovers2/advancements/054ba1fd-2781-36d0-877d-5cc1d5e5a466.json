@@ -1,0 +1,1977 @@
+{
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-03-11 14:34:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/saddle": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2024-03-11 14:11:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2024-03-11 14:29:17 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2024-03-11 15:03:22 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hurt": {
+    "criteria": {
+      "target": "2024-03-11 14:13:34 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-11 14:15:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-03-11 14:15:21 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2024-03-11 14:17:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-03-11 14:23:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/gilded_blackstone": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-11 14:20:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/witch_hazel_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-03-11 14:38:16 -0700",
+      "cooked_mutton": "2024-03-11 14:20:21 -0700",
+      "cooked_cod": "2024-03-11 14:56:09 -0700",
+      "bread": "2024-03-11 14:17:14 -0700",
+      "carrot": "2024-03-11 14:21:29 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-11 14:20:18 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/white_mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/blue_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/wooden_gear": {
+    "criteria": {
+      "has_wooden_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-11 14:27:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/tools/chisel": {
+    "criteria": {
+      "has_stone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-03-11 14:23:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-03-11 14:11:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-11 14:20:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-11 14:10:47 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2024-03-11 14:52:20 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-11 14:13:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_towers": {
+    "criteria": {
+      "location0": "2024-03-11 14:35:46 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-03-11 14:39:32 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-03-11 14:58:34 -0700",
+      "minecraft:skeleton": "2024-03-11 14:17:55 -0700",
+      "minecraft:hoglin": "2024-03-11 14:27:11 -0700",
+      "minecraft:vindicator": "2024-03-11 14:59:42 -0700",
+      "minecraft:wither_skeleton": "2024-03-11 14:27:05 -0700",
+      "minecraft:husk": "2024-03-11 14:17:48 -0700",
+      "minecraft:zombie": "2024-03-11 14:13:05 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-03-11 14:39:32 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2024-03-11 14:31:47 -0700"
+    },
+    "done": true
+  },
+  "endofherobrine:recipes/decorations/cursed_head": {
+    "criteria": {
+      "has_item": "2024-03-11 14:13:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_boots": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_smoker": "2024-03-11 14:15:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-11 14:07:22 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-11 14:20:18 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-11 14:15:21 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2024-03-11 15:08:03 -0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-03-11 14:10:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2024-03-11 14:13:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-03-11 14:39:32 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
+    "criteria": {
+      "has_bone": "2024-03-11 14:19:19 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2024-03-11 15:01:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding_inflicted": {
+    "criteria": {
+      "bleeding_applied": "2024-03-11 14:26:58 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/skyris_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/zelkova_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-03-11 14:11:55 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2024-03-11 14:50:18 -0700",
+      "target": "2024-03-11 14:13:01 -0700"
+    },
+    "done": false
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2024-03-11 14:11:07 -0700",
+      "bypass_armor": "2024-03-11 14:11:07 -0700",
+      "is_fire": "2024-03-11 14:27:20 -0700",
+      "generic": "2024-03-11 14:13:34 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2024-03-11 15:08:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/bone_pile": {
+    "criteria": {
+      "has_bone": "2024-03-11 14:19:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-03-11 14:29:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cika_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/rainbow_eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/bell": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-03-11 14:19:19 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/gold_rod": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-11 14:33:49 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-11 14:27:38 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-11 14:29:17 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-11 14:11:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/plinth": {
+    "criteria": {
+      "has_crafting_table": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2024-03-11 15:00:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_diamond_ingot": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/green_enchanted_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-03-11 14:18:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2024-03-11 14:17:05 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2024-03-11 14:11:03 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-03-11 14:41:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-11 14:13:05 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-03-11 14:11:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "fantasyfurniture:recipes/decorations/furniture_station": {
+    "criteria": {
+      "has_crafting_table": "2024-03-11 14:11:55 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/coffin": {
+    "criteria": {
+      "has_bone": "2024-03-11 14:19:19 -0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2024-03-11 14:50:07 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/statue": {
+    "criteria": {
+      "has_stone": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2024-03-11 14:44:00 -0700",
+      "byg:prairie": "2024-03-11 14:44:08 -0700",
+      "byg:rainbow_beach": "2024-03-11 14:41:08 -0700",
+      "byg:orchard": "2024-03-11 14:44:41 -0700",
+      "byg:maple_taiga": "2024-03-11 14:46:03 -0700",
+      "byg:windswept_desert": "2024-03-11 14:41:00 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-03-11 14:07:22 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-03-11 14:10:10 -0700",
+      "minecraft:wooded_badlands": "2024-03-11 14:09:44 -0700",
+      "minecraft:badlands": "2024-03-11 14:07:25 -0700",
+      "minecraft:beach": "2024-03-11 14:46:53 -0700",
+      "minecraft:river": "2024-03-11 14:10:09 -0700",
+      "minecraft:lukewarm_ocean": "2024-03-11 14:41:25 -0700",
+      "minecraft:cold_ocean": "2024-03-11 14:47:10 -0700",
+      "minecraft:deep_cold_ocean": "2024-03-11 14:52:26 -0700",
+      "minecraft:frozen_ocean": "2024-03-11 14:49:32 -0700",
+      "minecraft:deep_frozen_ocean": "2024-03-11 14:52:20 -0700",
+      "minecraft:ocean": "2024-03-11 14:43:26 -0700",
+      "minecraft:plains": "2024-03-11 14:10:25 -0700"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-11 14:10:47 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-03-11 14:17:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-03-11 14:27:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-03-11 14:45:05 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2024-03-11 14:17:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-11 14:20:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-03-11 14:20:38 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/holly_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "byg:recipes/byg.byg/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-03-11 14:40:35 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-03-11 14:37:27 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/frozen_bench": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-03-11 15:01:09 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/iron_rod": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-11 14:11:50 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-03-11 14:17:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-03-11 14:12:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-11 14:14:14 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2024-03-11 14:07:23 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-11 14:37:37 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
+    "criteria": {
+      "has_ingots/iron": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-03-11 14:23:05 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2024-03-11 14:17:06 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

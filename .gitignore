@@ -20,7 +20,6 @@ emperor/*
 empress/*
 libra/*
 orion-test/*
-priestess/*
 VXSK1/*
 VXSK1-8debug/*
 VXSK2/*
@@ -29,9 +28,4 @@ dynmap-server/*
 VXSK2-Copy/*
 libraries/*
 world/*
-magus/*
-fool/*
-lovers/*
-magus/*
-lovers2/*
 debug1/*

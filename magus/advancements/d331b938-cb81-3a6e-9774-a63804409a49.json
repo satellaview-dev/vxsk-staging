@@ -1,0 +1,238 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_bastion": {
+    "criteria": {
+      "bastion": "2023-12-13 09:41:58 -0700"
+    },
+    "done": true
+  },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-12-13 09:48:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/swamp": {
+    "criteria": {
+      "requirement": "2023-12-13 09:55:29 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_end_find_end_city": {
+    "criteria": {
+      "in_city": "2023-12-13 09:41:58 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:coconino_meadow": "2023-12-13 09:41:58 -0700"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2023-12-13 09:48:33 -0700"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-12-13 09:48:33 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:biome/terralith/highland_forest": {
+    "criteria": {
+      "requirement": "2023-12-13 09:55:22 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-12-13 09:48:33 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2023-12-13 09:41:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2023-12-13 09:47:51 -0700",
+      "bypass_armor": "2023-12-13 09:47:51 -0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_fortress": {
+    "criteria": {
+      "fortress": "2023-12-13 09:41:58 -0700"
+    },
+    "done": true
+  },
+  "mcpeachpies:root": {
+    "criteria": {
+      "requirement": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_husbandry_root": {
+    "criteria": {
+      "consumed_item": "2023-12-13 09:48:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-12-13 09:53:36 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2023-12-13 09:41:57 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2023-12-13 09:47:51 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}
