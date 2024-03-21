@@ -1,0 +1,467 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-18 23:47:13 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_end_find_end_city": {
+    "criteria": {
+      "in_city": "2024-03-18 23:47:13 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:allium_fields": "2024-03-18 23:50:10 -0700",
+      "byg:prairie": "2024-03-18 23:50:13 -0700",
+      "byg:sythian_torrids": "2024-03-19 00:34:22 -0700",
+      "byg:orchard": "2024-03-18 23:50:22 -0700",
+      "byg:warped_desert": "2024-03-19 00:37:46 -0700",
+      "byg:magma_wastes": "2024-03-19 00:14:05 -0700",
+      "byg:subzero_hypogeal": "2024-03-19 00:13:33 -0700",
+      "byg:embur_bog": "2024-03-19 00:08:07 -0700",
+      "byg:wailing_garth": "2024-03-19 00:07:55 -0700",
+      "byg:crimson_gardens": "2024-03-19 00:12:58 -0700",
+      "byg:brimstone_caverns": "2024-03-19 00:17:28 -0700",
+      "byg:weeping_mire": "2024-03-19 00:08:34 -0700",
+      "byg:dacite_shore": "2024-03-18 23:47:13 -0700"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-03-19 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-03-18 23:50:47 -0700",
+      "minecraft:river": "2024-03-18 23:50:35 -0700",
+      "minecraft:stony_shore": "2024-03-18 23:50:08 -0700",
+      "minecraft:ocean": "2024-03-18 23:51:11 -0700",
+      "minecraft:plains": "2024-03-18 23:50:42 -0700"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-18 23:56:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-03-19 00:12:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-18 23:56:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-03-19 00:07:42 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-19 00:07:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "mt:entity_hit_system/on_hit": {
+    "criteria": {
+      "not_target": "2024-03-18 23:53:09 -0700",
+      "target": "2024-03-19 00:40:32 -0700"
+    },
+    "done": false
+  },
+  "smithed.damage:v0.1.0/player/event": {
+    "criteria": {
+      "is_magic": "2024-03-18 23:53:39 -0700",
+      "is_fire": "2024-03-18 23:53:39 -0700"
+    },
+    "done": false
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-03-18 23:53:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-19 00:08:10 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-03-18 23:53:45 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-03-19 00:07:42 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_root": {
+    "criteria": {
+      "entered_nether": "2024-03-19 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "endofherobrine:recipes/building_blocks/netherrack_totem": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-19 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_adventure_root": {
+    "criteria": {
+      "killed_something": "2024-03-18 23:53:34 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-03-19 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-03-19 00:13:02 -0700",
+      "minecraft:basalt_deltas": "2024-03-19 00:09:14 -0700",
+      "minecraft:warped_forest": "2024-03-19 00:37:39 -0700"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-03-18 23:47:13 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2024-03-18 23:53:45 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/expert_mode": {
+    "criteria": {
+      "game_state": "2024-03-19 00:07:55 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-18 23:48:51 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_fortress": {
+    "criteria": {
+      "fortress": "2024-03-18 23:47:13 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "global:ps/book_of_experience": {
+    "criteria": {
+      "trigger": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-03-19 00:07:42 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_husbandry_root": {
+    "criteria": {
+      "consumed_item": "2024-03-18 23:56:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3218
+}

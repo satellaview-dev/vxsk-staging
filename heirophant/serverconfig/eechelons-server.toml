@@ -1,0 +1,5 @@
+
+[hud]
+	#Enable HUD display.
+	showHud = true
+
