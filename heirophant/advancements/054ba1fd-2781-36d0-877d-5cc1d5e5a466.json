@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "2mal3:adco/installed": {
+    "criteria": {
+      "trigger": "2024-03-21 16:17:25 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-03-21 14:31:13 -0700"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "mcpeachpies:root": {
+    "criteria": {
+      "requirement": "2024-03-21 16:17:25 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
@@ -248,6 +260,12 @@
   "literagame:more_bossbars": {
     "criteria": {
       "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_adventure_kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-03-21 18:30:05 -0700"
     },
     "done": true
   },
@@ -323,6 +341,12 @@
     },
     "done": true
   },
+  "majruszsdifficulty:progressive_difficulty/warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-03-21 18:24:28 -0700"
+    },
+    "done": true
+  },
   "nucleus:initiate_0.1.4": {
     "criteria": {
       "impossible": "2024-03-18 23:47:12 -0700"
@@ -344,6 +368,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-03-21 14:31:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-03-21 15:50:23 -0700"
     },
     "done": true
   },
@@ -625,6 +655,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-03-21 16:05:57 -0700",
       "minecraft:skeleton": "2024-03-21 14:47:08 -0700",
       "minecraft:spider": "2024-03-21 14:48:07 -0700",
       "minecraft:zombie": "2024-03-21 14:44:11 -0700",
@@ -770,6 +801,12 @@
     },
     "done": true
   },
+  "simplewarden:kill_the_warden": {
+    "criteria": {
+      "killed_warden": "2024-03-21 16:09:47 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-21 13:21:43 -0700"
@@ -797,12 +834,6 @@
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "in_better_fortress": "2024-03-19 00:12:16 -0700"
     },
     "done": true
   },
@@ -856,6 +887,12 @@
   "improvedvanilla:recipes/dead_bush": {
     "criteria": {
       "has_sapling": "2024-03-21 14:47:24 -0700"
+    },
+    "done": true
+  },
+  "deactivateportals:pack": {
+    "criteria": {
+      "trigger": "2024-03-21 16:17:25 -0700"
     },
     "done": true
   },
@@ -916,6 +953,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2024-03-21 16:17:25 -0700"
     },
     "done": true
   },
@@ -1382,6 +1425,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-03-21 18:30:05 -0700"
+    },
+    "done": true
+  },
   "endofherobrine:recipes/building_blocks/netherrack_totem": {
     "criteria": {
       "has_netherrack": "2024-03-18 23:55:16 -0700"
@@ -1441,6 +1490,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2024-03-21 16:17:25 -0700"
     },
     "done": true
   },

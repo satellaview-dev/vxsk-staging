@@ -15,9 +15,9 @@
 			"minecraft:gold_ore",
 		],
 		"nether_gold_ore": [
-			"minecraft:nether_gold_ore",
 			"byg:blue_nether_gold_ore",
 			"byg:brimstone_nether_gold_ore",
+			"minecraft:nether_gold_ore",
 		],
 		"redstone_ore": [
 			"minecraft:redstone_ore",
@@ -55,9 +55,9 @@
 			"byg:ametrine_ore",
 		],
 		"quartz_ore": [
-			"byg:brimstone_nether_quartz_ore",
 			"byg:blue_nether_quartz_ore",
 			"minecraft:nether_quartz_ore",
+			"byg:brimstone_nether_quartz_ore",
 		],
 	},
 	"stone_mappings": {
