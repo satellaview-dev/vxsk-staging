@@ -1,0 +1,20 @@
+
+["Base Features"]
+	# Basically half the premise of the mod, turn this off if you don't want people trimming armor themselves (if you want to charge money for trims or have another system on place).
+	"New Smithing Table GUI" = true
+	# Don't consume smithing templates when crafting.
+	"Don't Consume Smithing Templates" = false
+	# Disable vanilla netherite upgrading in favor of the new one. NOT recommended to enable this alongside disableNetheriteUpgrade.
+	"Disable Vanilla Netherite Upgrading" = false
+	# Disable netherite upgrading via smithing template. Great if you feel like it takes away from the old vanilla experience. NOT recommended to enable this alongside disableVanillaNetheriteUpgrade
+	"Disable Netherite Upgrade Smithing Template" = false
+
+	["Base Features".Untrimming]
+		# Decides whether or not the player is allowed to un-trim armor.
+		"Allow Untrimming" = true
+
+	["Base Features"."Armor Trim Materials"]
+		# This is a list of items that can be used to trim armor.
+		# You can add any item/tag here by adding "minecraft:quartz" for items (in this case a sponge) or "#forge:gems/amethyst" for tags (in this case, amethyst shards)
+		"Armor Trim Materials" = ["#forge:ingots/gold", "#forge:ingots/iron", "#forge:ingots/copper", "#forge:ingots/netherite", "#forge:gems/emerald", "#forge:gems/amethyst", "#forge:dusts/redstone", "#forge:gems/lapis", "#forge:gems/quartz", "#forge:gems/diamond", "#forge:ingots/manasteel", "#forge:ingots/elementium", "#forge:ingots/terrasteel", "#forge:gems/mana_diamond", "#forge:gems/dragonstone", "#forge:ingots/zinc", "create:polished_rose_quartz"]
+

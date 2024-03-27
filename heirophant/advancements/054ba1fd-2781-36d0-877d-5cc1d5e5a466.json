@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-03-21 14:31:13 -0700"
@@ -26,6 +32,12 @@
   "valhelsia_furniture:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -71,6 +83,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-03-21 14:31:13 -0700"
@@ -89,9 +107,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/birch_desk": {
     "criteria": {
       "has_birch_planks": "2024-03-21 14:31:13 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -113,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-21 13:21:43 -0700"
@@ -128,6 +164,12 @@
   "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -197,9 +239,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -251,6 +305,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-03-21 13:21:43 -0700"
@@ -260,6 +320,12 @@
   "literagame:more_bossbars": {
     "criteria": {
       "tick": "2024-03-18 23:47:12 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -284,6 +350,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -344,6 +416,12 @@
   "majruszsdifficulty:progressive_difficulty/warden_treasure_bag": {
     "criteria": {
       "bag_opened": "2024-03-21 18:24:28 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -443,9 +521,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -533,6 +623,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-21 13:21:43 -0700"
@@ -611,6 +707,18 @@
     },
     "done": true
   },
+  "manic:manic/kill_spectre": {
+    "criteria": {
+      "requirement": "2024-03-21 22:55:37 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-03-18 23:53:34 -0700"
@@ -620,6 +728,18 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-03-18 23:55:16 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -657,6 +777,7 @@
     "criteria": {
       "minecraft:blaze": "2024-03-21 16:05:57 -0700",
       "minecraft:skeleton": "2024-03-21 14:47:08 -0700",
+      "minecraft:vindicator": "2024-03-21 22:55:37 -0700",
       "minecraft:spider": "2024-03-21 14:48:07 -0700",
       "minecraft:zombie": "2024-03-21 14:44:11 -0700",
       "minecraft:drowned": "2024-03-21 14:33:26 -0700"
@@ -684,6 +805,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-21 13:21:43 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -759,15 +886,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-03-21 14:31:13 -0700"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "xph:xp_husbandry_root": {
     "criteria": {
       "consumed_item": "2024-03-18 23:56:12 -0700"
+    },
+    "done": true
+  },
+  "mcpeachpies:afk_detector/welcome_back": {
+    "criteria": {
+      "requirement": "2024-03-23 01:28:41 -0700"
     },
     "done": true
   },
@@ -795,9 +940,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "xph:xp_end_find_end_city": {
     "criteria": {
       "in_city": "2024-03-18 23:47:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -834,6 +991,12 @@
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -908,9 +1071,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_book": "2024-03-21 14:30:47 -0700"
+    },
+    "done": true
+  },
+  "mcpeachpies:afk_detector/are_you_still_there": {
+    "criteria": {
+      "requirement": "2024-03-21 23:04:54 -0700"
     },
     "done": true
   },
@@ -1028,6 +1203,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
@@ -1058,15 +1239,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-03-21 13:21:43 -0700"
     },
     "done": true
   },
+  "weeping_angels:recipes/decorations/plinth": {
+    "criteria": {
+      "has_crafting_table": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -1148,9 +1347,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/statue": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -1221,6 +1438,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
     "criteria": {
       "has_birch_planks": "2024-03-21 14:31:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -1299,6 +1522,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2024-03-21 14:31:03 -0700"
@@ -1353,6 +1582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-03-19 00:08:10 -0700"
@@ -1380,6 +1615,12 @@
   "majruszsdifficulty:progressive_difficulty/creeperling": {
     "criteria": {
       "encountered_creeperling": "2024-03-21 14:32:49 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -1473,6 +1714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-03-19 00:13:02 -0700",
@@ -1511,6 +1758,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2024-03-21 14:32:58 -0700"
@@ -1541,6 +1794,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_trophy": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2024-03-18 23:55:16 -0700"
@@ -1550,6 +1815,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2024-03-21 14:31:03 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-03-23 01:33:11 -0700"
     },
     "done": true
   },
@@ -1570,6 +1841,12 @@
       "fortress": "2024-03-18 23:47:13 -0700"
     },
     "done": true
+  },
+  "manic:manic/kill_all_spectres": {
+    "criteria": {
+      "necromorph": "2024-03-21 22:55:37 -0700"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {

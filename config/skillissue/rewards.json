@@ -10,8 +10,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "title @s subtitle \"Current Level: <level>\"",
-        "title @s title \"You feel stronger!\""
+        "say Current Level: §6<level>",
+        "say You feel §6stronger!"
       ]
     },
     {
@@ -24,8 +24,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "title @s subtitle \"Current Level: <level>\"",
-        "title @s title \"This is it!\""
+        "title @s subtitle \"Current Level: §6<level>\"",
+        "title @s title \"§6How\""
       ]
     },
     {
@@ -39,7 +39,7 @@
       "level_inject": "<level>",
       "commands": [
         "title @s subtitle \"Current Level: <level>\"",
-        "title @s title \"Powerlevel > 9000\""
+        "title @s title \"WHAT??? HOW???\""
       ]
     },
     {
@@ -52,8 +52,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "title @s subtitle \"Current Level: <level>\"",
-        "title @s title \"You feel weakened...\""
+        "say Current Level: §c<level>",
+        "say You feel §cweakened..."
       ]
     },
     {
@@ -66,8 +66,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "title @s subtitle \"Current Level: <level>\"",
-        "title @s title \"Where was I again?\""
+        "say Current Level: §6<level>",
+        "say Where was I again?"
       ]
     }
   ]
