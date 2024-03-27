@@ -15,14 +15,14 @@
 			"minecraft:deepslate_gold_ore",
 		],
 		"nether_gold_ore": [
-			"minecraft:nether_gold_ore",
 			"byg:brimstone_nether_gold_ore",
 			"byg:blue_nether_gold_ore",
+			"minecraft:nether_gold_ore",
 		],
 		"redstone_ore": [
-			"minecraft:deepslate_redstone_ore",
 			"byg:cryptic_redstone_ore",
 			"minecraft:redstone_ore",
+			"minecraft:deepslate_redstone_ore",
 		],
 		"diamond_ore": [
 			"minecraft:diamond_ore",
@@ -55,15 +55,17 @@
 			"byg:ametrine_ore",
 		],
 		"quartz_ore": [
+			"byg:blue_nether_quartz_ore",
 			"byg:brimstone_nether_quartz_ore",
 			"minecraft:nether_quartz_ore",
-			"byg:blue_nether_quartz_ore",
 		],
 	},
 	"stone_mappings": {
 		"byg_soapstone": "byg:soapstone",
 		"red_sandstone": "minecraft:red_sandstone",
 		"byg_mossy_stone": "byg:mossy_stone",
+		"biomesoplenty_black_sandstone": "biomesoplenty:black_sandstone",
+		"biomesoplenty_orange_sandstone": "biomesoplenty:orange_sandstone",
 		dripstone: "minecraft:dripstone_block",
 		"create_limestone": "create:limestone",
 		calcite: "minecraft:calcite",
@@ -83,6 +85,7 @@
 		"byg_blue_netherrack": "byg:blue_netherrack",
 		"byg_dacite": "byg:dacite",
 		"create_scoria": "create:scoria",
+		"biomesoplenty_white_sandstone": "biomesoplenty:white_sandstone",
 		stone: "minecraft:stone",
 		"smooth_basalt": "minecraft:smooth_basalt",
 		"byg_cryptic": "byg:cryptic_stone",

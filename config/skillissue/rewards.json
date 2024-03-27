@@ -10,8 +10,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "say Current Level: §6<level>",
-        "say You feel §6stronger!"
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s ["",{"text":"You feel "},{"text":"Stronger!","color":"gold"}]"
       ]
     },
     {
@@ -24,8 +24,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "title @s subtitle \"Current Level: §6<level>\"",
-        "title @s title \"§6How\""
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s {"text":"How","color":"gold"}]"
       ]
     },
     {
@@ -52,8 +52,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "say Current Level: §c<level>",
-        "say You feel §cweakened..."
+        "tellraw @s ["",{"text":"Current Level: "},{"text":"<level>","color":"dark_red"}]",
+        "tellraw @s ["",{"text":"You feel "},{"text":"weakened...","color":"dark_red"}]"
       ]
     },
     {
@@ -66,8 +66,8 @@
       "is_volatile": false,
       "level_inject": "<level>",
       "commands": [
-        "say Current Level: §6<level>",
-        "say Where was I again?"
+        "tellraw @s {"text":"Current Level: <level>"}",
+        "tellraw @s {"text":"Where was I again?","bold":true}"
       ]
     }
   ]

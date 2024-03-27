@@ -1,103 +1,121 @@
 {
-  "majruszsdifficulty:progressive_difficulty/creeperling": {
+  "comforts:sleeping_bag_light_gray": {
     "criteria": {
-      "encountered_creeperling": "2024-03-26 17:28:56 -0700"
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "always": "2024-03-26 17:26:08 -0700"
+      "has_mutton": "2024-03-26 20:33:37 -0700"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
     "criteria": {
-      "wither_skull": "2024-03-26 17:26:28 -0700"
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
     },
     "done": true
   },
-  "xph:xp_nether_find_bastion": {
+  "2mal3:adco/installed": {
     "criteria": {
-      "bastion": "2024-03-26 17:26:09 -0700"
+      "trigger": "2024-03-26 18:14:17 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "in_water": "2024-03-26 17:28:29 -0700"
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_boat": {
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
-      "in_water": "2024-03-26 17:28:29 -0700"
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "literagame:more_bossbars": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "tick": "2024-03-26 17:26:08 -0700"
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
     },
     "done": true
   },
-  "xph:xp_end_find_end_city": {
+  "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
-      "in_city": "2024-03-26 17:26:09 -0700"
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
     },
     "done": true
   },
-  "bob:bob": {
+  "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
     "criteria": {
-      "trigger": "2024-03-26 17:26:08 -0700"
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "dungeons_arise:find_small_blimp": {
+  "valhelsia_furniture:recipes/decorations/spruce_chair": {
     "criteria": {
-      "location0": "2024-03-26 17:29:49 -0700"
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
+  "obscure_api:recipes/obscure_book": {
     "criteria": {
-      "WDA": "2024-03-26 17:26:08 -0700"
+      "has_item": "2024-03-26 17:59:50 -0700"
     },
     "done": true
   },
-  "byg:root": {
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
     "criteria": {
-      "tick": "2024-03-26 17:26:08 -0700"
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
     },
     "done": true
   },
-  "byg:adventure/oh_the_biomes_youll_go": {
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_stonecutting": {
     "criteria": {
-      "byg:canadian_shield": "2024-03-26 17:26:09 -0700"
-    },
-    "done": false
-  },
-  "xph:xp_nether_get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-03-26 17:26:28 -0700"
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "game_state": "2024-03-26 17:26:08 -0700"
+      "has_planks": "2024-03-26 17:59:48 -0700"
     },
     "done": true
   },
-  "parcool:grant_parcool_guide": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "tick": "2024-03-26 17:26:08 -0700"
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "create:recipes/misc/crafting/kinetics/orange_seat": {
     "criteria": {
-      "slept_in_bed": "2024-03-26 17:27:29 -0700"
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/oak_post": {
+    "criteria": {
+      "has_item": "2024-03-26 18:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
     },
     "done": true
   },
@@ -107,21 +125,279 @@
     },
     "done": false
   },
-  "xph:xp_adventure_sleep_in_bed": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "slept_in_bed": "2024-03-26 17:27:29 -0700"
+      "has_wheat": "2024-03-26 17:59:36 -0700"
     },
     "done": true
   },
-  "create:root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "0": "2024-03-26 17:26:28 -0700"
+      "has_stick": "2024-03-26 18:01:58 -0700"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
     "criteria": {
-      "always": "2024-03-26 17:26:08 -0700"
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-26 18:14:58 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "mt:load": {
+    "criteria": {
+      "requirement": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 17:28:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_adventure_kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-03-26 20:31:02 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_item": "2024-03-26 17:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "mcpeachpies:root": {
+    "criteria": {
+      "requirement": "2024-03-26 18:14:17 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 17:28:29 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-26 19:50:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-03-26 18:03:52 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 17:28:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_sheet": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "literagame:more_bossbars": {
+    "criteria": {
+      "tick": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-03-26 18:00:08 -0700"
+    },
+    "done": false
+  },
+  "manic:technical/initiate_1.0.3": {
+    "criteria": {
+      "tick": "2024-03-26 18:14:17 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_dark_oak_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-26 17:26:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "improvedvanilla:recipes/string": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
     },
     "done": true
   },
@@ -137,33 +413,754 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_root": {
+    "criteria": {
+      "crafting_table": "2024-03-26 17:59:50 -0700"
+    },
+    "done": true
+  },
+  "nucleus:initiate_0.1.4": {
+    "criteria": {
+      "impossible": "2024-03-26 18:14:17 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "literagame:root": {
+    "criteria": {
+      "tick": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-03-26 17:59:36 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/wooden_gear": {
+    "criteria": {
+      "has_wooden_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "vanilla_refresh:player/hurt": {
+    "criteria": {
+      "requirement": "2024-03-26 18:19:46 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-03-26 17:26:28 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_bastion": {
+    "criteria": {
+      "bastion": "2024-03-26 17:26:09 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/tools/chisel": {
+    "criteria": {
+      "has_stone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "bob:bob": {
+    "criteria": {
+      "trigger": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_cushion": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-26 17:27:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-03-26 17:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-03-26 17:59:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-26 18:00:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-03-26 17:28:29 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-03-26 17:26:28 -0700"
+      "has_corner_trim": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
-      "in_water": "2024-03-26 17:28:29 -0700"
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "mt:load": {
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
-      "requirement": "2024-03-26 17:26:08 -0700"
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-03-26 17:28:29 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/smelting_diamond_from_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-03-26 19:50:45 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-03-26 18:04:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-03-26 19:50:45 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-03-26 18:03:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-03-26 20:31:02 -0700",
+      "minecraft:zombie": "2024-03-26 20:32:50 -0700"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "endofherobrine:recipes/decorations/cursed_head": {
+    "criteria": {
+      "has_item": "2024-03-26 20:35:54 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-03-26 19:50:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-03-26 20:33:37 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-26 17:26:28 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-26 17:28:29 -0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2024-03-26 17:29:00 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_husbandry_root": {
+    "criteria": {
+      "consumed_item": "2024-03-26 18:00:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_end_find_end_city": {
+    "criteria": {
+      "in_city": "2024-03-26 17:26:09 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-03-26 17:29:49 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_curtain": {
+    "criteria": {
+      "has_item": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_diamond_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-03-26 19:50:45 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-03-26 17:59:50 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_story_mine_stone": {
+    "criteria": {
+      "get_stone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
@@ -174,39 +1171,277 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "smithed.damage:v0.1.0/player/event": {
     "criteria": {
-      "in_water": "2024-03-26 17:28:29 -0700"
+      "bypasses_invulnerability": "2024-03-26 19:49:39 -0700",
+      "is_magic": "2024-03-26 18:19:46 -0700",
+      "bypass_armor": "2024-03-26 19:49:39 -0700",
+      "generic": "2024-03-26 18:19:46 -0700",
+      "is_explosion": "2024-03-26 20:32:16 -0700"
+    },
+    "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
     },
     "done": true
   },
-  "global:hako": {
+  "improvedvanilla:recipes/dead_bush": {
     "criteria": {
-      "trigger": "2024-03-26 17:26:08 -0700"
+      "has_sapling": "2024-03-26 18:00:50 -0700"
     },
     "done": true
   },
-  "global:root": {
+  "deactivateportals:pack": {
     "criteria": {
-      "trigger": "2024-03-26 17:26:08 -0700"
+      "trigger": "2024-03-26 18:14:17 -0700"
     },
     "done": true
   },
-  "majruszsdifficulty:progressive_difficulty/bleeding": {
+  "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
-      "bleeding_applied": "2024-03-26 17:29:00 -0700"
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
-  "xph:xp_nether_find_fortress": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "fortress": "2024-03-26 17:26:09 -0700"
+      "has_log": "2024-03-26 17:59:42 -0700"
     },
     "done": true
   },
-  "global:ps": {
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_stool": {
     "criteria": {
-      "trigger": "2024-03-26 17:26:08 -0700"
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-03-26 18:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "global:tayacrystals": {
+    "criteria": {
+      "trigger": "2024-03-26 18:14:17 -0700"
+    },
+    "done": true
+  },
+  "byg:husbandry/berrily_alive": {
+    "criteria": {
+      "blue_berry": "2024-03-26 18:19:48 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/diamond_nugget": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_adventure_root": {
+    "criteria": {
+      "killed_by_something": "2024-03-26 18:04:31 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-26 19:50:56 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-03-26 17:26:28 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-03-26 18:03:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-03-26 17:59:50 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-03-26 19:50:56 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/plinth": {
+    "criteria": {
+      "has_crafting_table": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
     },
     "done": true
   },
@@ -216,21 +1451,483 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "janoeo_foundation:recipes/misc/diamond_rod": {
+    "criteria": {
+      "has_diamond_ingot": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-03-26 19:50:56 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-03-26 20:31:02 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-03-26 17:59:50 -0700"
+    },
+    "done": true
+  },
+  "fantasyfurniture:recipes/decorations/furniture_station": {
+    "criteria": {
+      "has_crafting_table": "2024-03-26 17:59:50 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "weeping_angels:recipes/decorations/statue": {
+    "criteria": {
+      "has_stone": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:canadian_shield": "2024-03-26 17:26:09 -0700"
+    },
+    "done": false
+  },
+  "janoeo_foundation:recipes/misc/blasting_diamond_from_ore": {
+    "criteria": {
+      "has_diamond_ore": "2024-03-26 19:50:45 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:grove": "2024-03-26 17:58:35 -0700"
+    },
+    "done": false
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-26 18:00:08 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_adventure_sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-26 17:27:29 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_mangrove_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-03-26 18:03:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "global:hako": {
+    "criteria": {
+      "trigger": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-26 18:14:58 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-03-26 17:28:29 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-03-26 17:28:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-03-26 17:28:29 -0700"
     },
     "done": true
   },
-  "literagame:root": {
+  "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
-      "tick": "2024-03-26 17:26:08 -0700"
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_granite_tiles_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "global:2mal3": {
+    "criteria": {
+      "trigger": "2024-03-26 18:14:17 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-03-26 20:36:55 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_chair": {
+    "criteria": {
+      "has_light_gray_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-03-26 19:51:01 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-03-26 18:01:58 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-03-26 20:34:01 -0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-03-26 18:03:19 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-03-26 18:15:08 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-03-26 20:33:37 -0700"
+    },
+    "done": true
+  },
+  "global:ps": {
+    "criteria": {
+      "trigger": "2024-03-26 17:26:08 -0700"
+    },
+    "done": true
+  },
+  "xph:xp_nether_find_fortress": {
+    "criteria": {
+      "fortress": "2024-03-26 17:26:09 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2024-03-26 17:59:33 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-03-26 20:33:36 -0700"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-03-26 17:59:48 -0700"
     },
     "done": true
   },
